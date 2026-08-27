@@ -4,9 +4,6 @@
 
 This repo is about our [Practical Git](https://quera.ir/college/land/register/8241/) course, and contains a list of users that successfully finished the course.
 
-## Armin Ranjbaran
-
-
 
 |Full Name|Social Address|
 |-|-|
